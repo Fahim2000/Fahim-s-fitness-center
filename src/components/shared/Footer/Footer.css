@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+}
+/* body styling */
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+}
+/* footer styling */
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #211928;
+  text-align: center;
+  color: #fff;
+}
+
+.fa-facebook-f {
+  color: #4267b2;
+}
+
+.fa-youtube {
+  color: #f20000;
+}
+.fa-twitter {
+  color: #1da1f2;
+}
+.fab {
+  cursor: pointer;
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "servicesName": "TRAINING PROGRAMS AND CONSULTANT COORDINATION",
+    "img": "https://shapes.pk/public/uploads/service-1.jpg",
+    "desc1": "Get fitter faster with our wearable heart rate technology! Push yourself, track your progress, and watch your fitness improve fast. Challenge yourself, face off against other members",
+    "desc2": "Get fitter faster with our wearable heart rate technology! Push yourself, track your progress, and watch your fitness improve fast. Heart rate training allows you to get the best work out every single time while keeping it fun. Challenge yourself, face off against other members, or maximize your next personal training session. You'll get hooked on fitness training and crushing goals, guaranteed."
+  },
+  {
+    "id": "2",
+    "servicesName": "HEALTH AND NUTRITION MANAGEMENT",
+    "img": "https://shapes.pk/public/uploads/service-2.JPG",
+    "desc1": "We guide you in eating the right foods which can help your body cope more successfully with an ongoing illness and improve wellness.",
+    "desc2": " The effective management of food intake and nutrition are both key to good health. Smart nutrition and food choices can help prevent disease. We guide you in eating the right foods which can help your body cope more successfully with an ongoing illness and improve wellness. Understanding good nutrition and paying attention to what you eat can help you maintain or improve your health."
+  },
+  {
+    "id": "3",
+    "servicesName": "FITNESS AND HEALTH PROGRAMS ",
+    "img": "https://shapes.pk/public/uploads/service-5.JPG",
+    "desc1": "Get fitter faster with our wearable heart rate technology! Push yourself, track your progress, and watch your fitness improve fast. Challenge yourself, face off against other members ",
+    "desc2": "Get fitter faster with our wearable heart rate technology! Push yourself, track your progress, and watch your fitness improve fast. Heart rate training allows you to get the best work out every single time while keeping it fun. Challenge yourself, face off against other members, or maximize your next personal training session. You'll get hooked on fitness training and crushing goals, guaranteed. "
+  },
+  {
+    "id": "4",
+    "servicesName": " ONLINE PROGRAM FOR FITNESS TRAINERS",
+    "img": "https://shapes.pk/public/uploads/service-6.png ",
+    "desc1": "Offering fitness trainers a unique opportunity to earn world renowned certifications in health, fitness and nutrition ",
+    "desc2": " With each offering clients with our online programs for fitness training, the opportunity to get in shape within a set time frame. Clients fill out a form on the website, and then it generates a personal plan for them customized around their needs online."
+  },
+  {
+    "id": "5",
+    "servicesName": "WEIGHT TRAINING",
+    "img": " https://shapes.pk/public/uploads/service-7.JPG",
+    "desc1": "Develop strength, power and lean muscle mass in weight lifting using a blend of traditional and advanced techniques. Suitable for beginners and advanced strength athletes with the guidance from expert trainers. ",
+    "desc2": "Develop strength, power and lean muscle mass in weight lifting using a blend of traditional and advanced techniques. Suitable for beginners and advanced strength athletes with the guidance from expert trainers holding a good fitness level, knowledge and ability."
+  },
+  {
+    "id": "6",
+    "servicesName": "OUR FACILITIES ",
+    "img": " https://shapes.pk/public/uploads/service-8.JPG",
+    "desc1": "Our gym floor is like a fitness playground equipped with state of the art free weight and selectorized weight training equipment along with modern cardio machines. Note that our facilities may vary from club to club. ",
+    "desc2": "Our gym floor is like a fitness playground equipped with state of the art free weight and selectorized weight training equipment along with modern cardio machines. Note that our facilities may vary from club to club. "
+  }
+]
