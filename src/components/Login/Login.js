@@ -11,11 +11,9 @@ const Login = () => {
   const { logInUsingGoogle, emailAndPasswordSignIn } = useAuth();
   const handleEmail = (e) => {
     setEmail(e.target.value);
-    console.log(e.target.value);
   };
   const handlePassword = (e) => {
     setPassword(e.target.value);
-    console.log(e.target.value);
   };
 
   const handleGoogleLogIn = (e) => {

@@ -31,14 +31,12 @@ const useFirebase = () => {
   const signUpWithEmailAndPassword = (email, password, name) => {
     createUserWithEmailAndPassword(auth, email, password)
       .then((result) => {
-        console.log(1);
         updateProfile(auth.currentUser, {
           displayName: name,
         });
         window.location.reload();
-        // setRender(true);
+
         console.log(result.user);
-        console.log(2);
       })
 
       .catch((error) => {
@@ -62,8 +60,6 @@ const useFirebase = () => {
     signOut(auth)
       .then(() => {
         // Sign-out successful.
-        console.log("fgfdg");
-        localStorage.removeItem("Authenticated");
       })
       .catch((error) => {
         // An error happened.

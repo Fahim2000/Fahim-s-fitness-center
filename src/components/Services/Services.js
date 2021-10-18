@@ -19,12 +19,12 @@ const Services = () => {
         Make "FITNESS" a part of your life
       </p>
 
-      <div className="row row-cols-1 row-cols-md-3 g-4">
+      <div className="row  row-cols-1 row-cols-md-3 g-3">
         {services.map((service) => {
           return (
             <div className="col" key={service.id}>
               <div className="card h-100">
-                <img src={service.img} className="card-img-top" alt="..." />
+                <img src={service.img} className="card-img-top " alt="..." />
                 <div className="card-body">
                   <h5 className="card-title">{service.servicesName}</h5>
                   <p className="card-text">{service.desc1}</p>

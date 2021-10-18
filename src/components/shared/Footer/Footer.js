@@ -10,7 +10,7 @@ const Footer = () => {
             src="https://d1wnwqwep8qkqc.cloudfront.net/uploads/stage/stage_image/111860/optimized_large_thumb_stage.jpg"
             alt=""
             width="180"
-          />
+          />{" "}
         </div>
         <div className="col-md-5 text-md-start text-center">
           <h1 className="text-warning">

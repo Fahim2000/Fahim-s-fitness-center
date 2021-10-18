@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import useAuth from "../../../hooks/useAuth";
+import "./Navbar.css";
 const NavBar = () => {
   const { user, logOut } = useAuth();
   return (
@@ -8,12 +9,9 @@ const NavBar = () => {
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
           <Link className="navbar-brand" to="/home">
-            <img
-              src="https://d1wnwqwep8qkqc.cloudfront.net/uploads/stage/stage_image/111860/optimized_large_thumb_stage.jpg"
-              alt=""
-              width="160"
-              height="90"
-            />
+            <span className="ms-2  text-warning custom-style">
+              Fahim's fitness center
+            </span>
           </Link>
           <button
             className="navbar-toggler"

@@ -1,0 +1,5 @@
+@media only screen and (max-width: 700px) and (min-width: 300px) {
+  .custom-style {
+    font-size: 1.1rem;
+  }
+}
