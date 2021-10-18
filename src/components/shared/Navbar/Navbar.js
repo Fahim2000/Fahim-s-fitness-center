@@ -27,6 +27,11 @@ const NavBar = () => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ms-auto mb-1 mb-lg-0 align-items-center">
               <li className="nav-item">
+                <Link to="/home" className="nav-link">
+                  Home
+                </Link>
+              </li>
+              <li className="nav-item">
                 <Link to="/about" className="nav-link">
                   About Us
                 </Link>
